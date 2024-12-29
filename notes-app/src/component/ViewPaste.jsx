@@ -1,9 +1,13 @@
 import React from 'react'
 
+
 const ViewPaste = () => {
+
+   
+
   return (
     <div>
-      view paste
+      <h1>view pastte</h1>
     </div>
   )
 }
